@@ -90,6 +90,8 @@ body{
 #toggleBtn:hover {
     background-color: #0056b3;
 }
+
+
 .weather-box .temperature{
     font-size: 40px;
     font-weight: 800;
